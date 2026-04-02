@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "235b205460b87e32",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3a348e290c9fb66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d94798f26be4193",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LESSONS/Group-75/2026-04-02, Thursday, Lesson 079.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-02, Thursday, Lesson 079"
+            }
+          },
+          {
+            "id": "2682ce5b121da02a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LESSONS/🎥 AI Video Review System Prompt (Strict Senior-Level Evaluation).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🎥 AI Video Review System Prompt (Strict Senior-Level Evaluation)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b07fe8adc0debead",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "349bc4a29208ca00",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "ec988d19c31928bd",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#რიგი",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "2e1f23240933a9ff",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "e8bd8b4339719ce2",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "3737544a75c90fe9",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "89664667c4d7cbbf",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2dd6273f0e327857",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "რწემნა/ღმერთი.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "09d8ef7ef18d4600",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "რწემნა/ღმერთი.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "02d00b2806fd4a03",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "რწემნა/ღმერთი.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "414aa6f70c1b4304",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2d94798f26be4193",
+  "lastOpenFiles": [
+    "LESSONS/Group-75/2026-04-02, Thursday, Lesson 079.md",
+    "LESSONS/🎥 AI Video Review System Prompt (Strict Senior-Level Evaluation).md",
+    "LESSONS/djje.md",
+    "Untitled.md",
+    "Untitled",
+    "LESSONS/Group-75",
+    "LESSONS",
+    "პროგრამირება",
+    "რწემნა/ღმერთი.md",
+    "გრძნობა/სიყვარული.md",
+    "გრძნობა/გოგო.md",
+    "ხალხი.md",
+    "წარმოსახვა.md",
+    "წარმოსახვა",
+    "გრძნობა",
+    "სითბო.md",
+    "მიყვარდება.md",
+    "წარმოსახვა/მესიზმრა.md",
+    "ვიდექი.md",
+    "რწემნა/ლოცვა.md",
+    "2026-04-01.md",
+    "რწემნა"
+  ]
+}

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "be35747cd15783c8",
+        "id": "5d8ed5496dd9af0c",
         "type": "tabs",
         "children": [
           {
-            "id": "4da9d1e28cf09b53",
+            "id": "817b10d3402eb6f5",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -109,7 +109,7 @@
               "type": "outgoing-link",
               "state": {
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
               "title": "Outgoing links"
@@ -178,6 +178,7 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -186,19 +187,30 @@
       "graph:Open graph view": false
     }
   },
-  "active": "4da9d1e28cf09b53",
+  "active": "817b10d3402eb6f5",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-04-06 11.54.00.excalidraw.md",
+    "თამაში/Character/Gif/Idle.gif",
+    "თამაში/Character/Gif/Idle 1.gif",
+    "თამაში/Character/Gif/Drawing 2026-04-06 11.55.21.excalidraw.md",
+    "თამაში/Character/Gif/Drawing 2026-04-06 11.54.39.excalidraw.md",
+    "Untitled 3.canvas",
+    "Excalidraw",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "2026-04-06.md",
+    "Untitled.base",
+    "თამაში/თამაში.md",
+    "თამაში/Character/Aseprite/Talckaseprite.aseprite",
+    "თამაში/Character/Aseprite/Character.aseprite",
+    "თამაში/Character/Aseprite",
+    "თამაში/Character/New folder",
+    "თამაში/Character/Gif",
+    "თამაში/Character/Assets",
+    "თამაში/Character",
+    "თამაში",
     "წარმოსახვა/მესიზმრა.md",
-    "Logs/shadercompiler-UnityShaderCompiler.exe-0.log",
-    "Temp/UnityTempFile-be924bd5e1e74664aa8ad1d3e99ce885",
-    "Temp/UnityTempFile-53d1e16e8fcfba04e853550205bf3d37",
-    "Temp/UnityTempFile-4b7af8434d7cec345beea8536be0ada1",
-    "Temp/UnityTempFile-1c48f40af2b15ae4793ccba72f3cb9c9",
-    "Temp/UnityTempFile-831c1534d3b1b8344ad68d05af58aba6",
-    "Temp/__Backupscenes/0.backup",
-    "Temp/UnityTempFile-11e3c0c383ea2554cadcf299178e856e",
-    "Temp/__Backupscenes",
-    "Library/Artifacts/db/db6289656a7d877a5642d4a781f6b1d2",
     "Assets/Docs/architecture_(for_llm_models)/PromptTemplates.md",
     "Assets/Docs/architecture_(for_llm_models)/ProjectStructure.md",
     "Assets/Docs/architecture_(for_llm_models)/GDD.md",
@@ -210,18 +222,13 @@
     "agents/workflows/ability-guide.md",
     "agents/rules/global-guide.md",
     "2026-04-01.md",
-    "Untitled.canvas",
     "Assets/Docs/Features_(for_game_mechanichs)/AbilitySystem.md",
     "lion/Assets/Docs/architecture_(for_llm_models)/Architecture.md",
     "`Architecture.md`.md",
-    "Untitled 1.canvas",
     "Library/PackageCache/com.unity.shadergraph@c6e5f4d3afa5/Documentation~/Blend-Node.md",
-    "Untitled 2.canvas",
     "Library/PackageCache/com.unity.visualscripting@eb6004dcc707/Documentation~/TableOfContents.md",
     "lion/Library/PackageCache/com.unity.shadergraph@c6e5f4d3afa5/Documentation~/Input-Nodes.md",
     "2026-04-01_log.md",
-    "2026-03-31_log.md",
-    "Creating 2d game In unity with ai.md",
-    "workflows/ability-guide.md"
+    "2026-03-31_log.md"
   ]
 }

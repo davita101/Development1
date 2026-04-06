@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "09770a818ae139f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "be35747cd15783c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4da9d1e28cf09b53",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c0a6075c26e79b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ea35f0d833de698",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86ca185f6d8d1edf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "39211bec4dc1e06b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:gdd",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e661a2cb20c2d2fb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8265c8cdf599dca0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5f552882d9726f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c130451d721408cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d59e4e859d9e84b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ef7ccc18deca95c7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e785c9e5ee6f0c39",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "03d4f9a277a9449e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "6dc51a01517b7b3f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "graph:Open graph view": false
+    }
+  },
+  "active": "4da9d1e28cf09b53",
+  "lastOpenFiles": [
+    "წარმოსახვა/მესიზმრა.md",
+    "Logs/shadercompiler-UnityShaderCompiler.exe-0.log",
+    "Temp/UnityTempFile-be924bd5e1e74664aa8ad1d3e99ce885",
+    "Temp/UnityTempFile-53d1e16e8fcfba04e853550205bf3d37",
+    "Temp/UnityTempFile-4b7af8434d7cec345beea8536be0ada1",
+    "Temp/UnityTempFile-1c48f40af2b15ae4793ccba72f3cb9c9",
+    "Temp/UnityTempFile-831c1534d3b1b8344ad68d05af58aba6",
+    "Temp/__Backupscenes/0.backup",
+    "Temp/UnityTempFile-11e3c0c383ea2554cadcf299178e856e",
+    "Temp/__Backupscenes",
+    "Library/Artifacts/db/db6289656a7d877a5642d4a781f6b1d2",
+    "Assets/Docs/architecture_(for_llm_models)/PromptTemplates.md",
+    "Assets/Docs/architecture_(for_llm_models)/ProjectStructure.md",
+    "Assets/Docs/architecture_(for_llm_models)/GDD.md",
+    "Assets/Docs/architecture_(for_llm_models)/DevLogRule.md",
+    "Assets/Docs/architecture_(for_llm_models)/Architecture.md",
+    "Assets/_dev_logs/2026-04-01_log.md",
+    "Assets/_dev_logs/2026-04-02_log.md",
+    "Assets/_dev_logs/2026-03-31_log.md",
+    "agents/workflows/ability-guide.md",
+    "agents/rules/global-guide.md",
+    "2026-04-01.md",
+    "Untitled.canvas",
+    "Assets/Docs/Features_(for_game_mechanichs)/AbilitySystem.md",
+    "lion/Assets/Docs/architecture_(for_llm_models)/Architecture.md",
+    "`Architecture.md`.md",
+    "Untitled 1.canvas",
+    "Library/PackageCache/com.unity.shadergraph@c6e5f4d3afa5/Documentation~/Blend-Node.md",
+    "Untitled 2.canvas",
+    "Library/PackageCache/com.unity.visualscripting@eb6004dcc707/Documentation~/TableOfContents.md",
+    "lion/Library/PackageCache/com.unity.shadergraph@c6e5f4d3afa5/Documentation~/Input-Nodes.md",
+    "2026-04-01_log.md",
+    "2026-03-31_log.md",
+    "Creating 2d game In unity with ai.md",
+    "workflows/ability-guide.md"
+  ]
+}

@@ -11,10 +11,14 @@
             "id": "973a40f0c369403d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "თამაში/თამაში.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "თამაში"
             }
           }
         ]
@@ -176,13 +180,14 @@
   },
   "active": "973a40f0c369403d",
   "lastOpenFiles": [
+    "თამაში/თამაში.md",
+    "თამაში",
     "README.md",
     "რწემნა/ახღასრება 04-04-2026.md",
     "LESSONS/Group-75/2026-04-02, Thursday, Lesson 079.md",
     "LESSONS/🎥 AI Video Review System Prompt (Strict Senior-Level Evaluation).md",
     "LESSONS/djje.md",
     "Untitled.md",
-    "Untitled",
     "LESSONS/Group-75",
     "LESSONS",
     "პროგრამირება",

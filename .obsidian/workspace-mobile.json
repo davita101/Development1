@@ -20,8 +20,49 @@
               "icon": "lucide-file",
               "title": "თამაში"
             }
+          },
+          {
+            "id": "38c5efc6dd4cc325",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "თამაში/Game_Todo.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    true,
+                    true,
+                    true
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Game_Todo"
+            }
+          },
+          {
+            "id": "e49a08d427c2b34f",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "თამაში/Game_Todo.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    true,
+                    false,
+                    true
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Game_Todo"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -49,7 +90,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#რიგი",
+            "query": "tag:#jump",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -100,7 +141,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "89664667c4d7cbbf",
@@ -169,18 +210,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "973a40f0c369403d",
+  "active": "ec988d19c31928bd",
   "lastOpenFiles": [
+    "თამაში/Character/Gif/Drawing 2026-04-06 11.54.39.excalidraw.md",
+    "თამაში/Game_Todo.md",
     "თამაში/თამაში.md",
+    "Excalidraw/Drawing 2026-04-06 11.54.00.excalidraw.md",
+    "თამაში/Character/Gif/Idle.gif",
+    "გრძნობა/გოგო.md",
+    "Excalidraw",
     "თამაში",
     "README.md",
     "რწემნა/ახღასრება 04-04-2026.md",
@@ -193,7 +242,6 @@
     "პროგრამირება",
     "რწემნა/ღმერთი.md",
     "გრძნობა/სიყვარული.md",
-    "გრძნობა/გოგო.md",
     "ხალხი.md",
     "წარმოსახვა.md",
     "წარმოსახვა",

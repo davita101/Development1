@@ -88,6 +88,13 @@
         "type": "DIRECTORIES",
         "pattern": "Assets/Test",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "თამაში/Character/Aseprite",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [

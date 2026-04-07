@@ -11,10 +11,20 @@
             "id": "2c255e99609bb3c0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "kanban",
+              "state": {
+                "file": "თამაში/Game_Todo.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    true,
+                    true
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Game_Todo"
             }
           }
         ]
@@ -49,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:gdd",
+                "query": "tag:#crouch-walking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +80,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -108,11 +119,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "თამაში/Game_Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Game_Todo"
             }
           },
           {
@@ -177,6 +189,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "canvas:Create new canvas": false,
@@ -189,6 +202,7 @@
   },
   "active": "2c255e99609bb3c0",
   "lastOpenFiles": [
+    "თამაში/Game_Todo.md",
     "Excalidraw/Drawing 2026-04-06 17.02.32.excalidraw.md",
     "Excalidraw/Drawing 2026-04-06 11.54.00.excalidraw.md",
     "თამაში/Character/Gif/Idle.gif",
@@ -229,7 +243,6 @@
     "Library/PackageCache/com.unity.shadergraph@c6e5f4d3afa5/Documentation~/Blend-Node.md",
     "Library/PackageCache/com.unity.visualscripting@eb6004dcc707/Documentation~/TableOfContents.md",
     "lion/Library/PackageCache/com.unity.shadergraph@c6e5f4d3afa5/Documentation~/Input-Nodes.md",
-    "2026-04-01_log.md",
-    "2026-03-31_log.md"
+    "2026-04-01_log.md"
   ]
 }

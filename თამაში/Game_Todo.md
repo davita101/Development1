@@ -6,18 +6,21 @@ kanban-plugin: board
 
 ## Animations #game
 
-- [ ] - [ ] #climbing
-- [ ] - [ ] #crouch
-- [ ] - [ ] #doublejump
-- [ ] - [ ] #jump
-- [ ] - [ ] #runing
-- [ ] - [ ] #wallClimbm
-- [ ] - [x] #idle
-- [ ] - [x] #walk
+- [ ] - [ ] #crouch  #in-progress
+- [ ] - [ ] #crouch-walking 
+	#in-progress
+- [ ] - [ ] #crouch-stand #in-progress
+- [ ] - [ ] #doublejump #not-srtarted
+- [ ] - [ ] #jump #not-srtarted
+- [ ] - [ ] #runing #not-srtarted
+- [ ] - [ ] #wallClimbm #not-srtarted
+- [ ] - [x] #idle #done
+- [ ] - [x] #walk #done
 
 
 ## #Abilites
 
+- [ ] - [ ] #climbing
 - [ ] - [ ] #crouch
 - [ ] - [x] #dash
 - [ ] - [x] #doublejump
@@ -36,6 +39,10 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
+<<<<<<< HEAD
 {"kanban-plugin":"board","list-collapse":[true,true,true]}
+=======
+{"kanban-plugin":"board","list-collapse":[false,true,true]}
+>>>>>>> refs/remotes/origin/main
 ```
 %%

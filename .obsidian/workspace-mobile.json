@@ -45,20 +45,10 @@
             "id": "e49a08d427c2b34f",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "თამაში/Game_Todo.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    true,
-                    false,
-                    true
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Game_Todo"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -141,7 +131,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "89664667c4d7cbbf",
@@ -221,10 +211,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ec988d19c31928bd",
+  "active": "349bc4a29208ca00",
   "lastOpenFiles": [
-    "თამაში/Character/Gif/Drawing 2026-04-06 11.54.39.excalidraw.md",
     "თამაში/Game_Todo.md",
+    "თამაში/Character/Gif/Drawing 2026-04-06 11.54.39.excalidraw.md",
     "თამაში/თამაში.md",
     "Excalidraw/Drawing 2026-04-06 11.54.00.excalidraw.md",
     "თამაში/Character/Gif/Idle.gif",

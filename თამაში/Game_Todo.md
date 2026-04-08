@@ -33,16 +33,3 @@ kanban-plugin: board
 
 - [ ] - [ ] #ბოსი რომელმსაც სანამ არ დაელაპარაკები მანამდე ვერ დაამარცხე
 	> ამ დალაპარაკებაის გზა უნდა აღმოაჩინო
-
-
-
-
-%% kanban:settings
-```
-<<<<<<< HEAD
-{"kanban-plugin":"board","list-collapse":[true,true,true]}
-=======
-{"kanban-plugin":"board","list-collapse":[false,true,true]}
->>>>>>> refs/remotes/origin/main
-```
-%%

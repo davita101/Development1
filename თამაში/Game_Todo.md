@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## Animations #game
 
-- [ ] - [ ] #crouch  #in-progress
+- [ ] - [x] #crouch  #done
 - [ ] - [ ] #crouch-walking 
 	#in-progress
 - [ ] - [ ] #crouch-stand #in-progress
@@ -33,3 +33,12 @@ kanban-plugin: board
 
 - [ ] - [ ] #ბოსი რომელმსაც სანამ არ დაელაპარაკები მანამდე ვერ დაამარცხე
 	> ამ დალაპარაკებაის გზა უნდა აღმოაჩინო
+
+
+
+
+%% kanban:settings
+```
+{"kanban-plugin":"board","list-collapse":[null,true,true]}
+```
+%%
